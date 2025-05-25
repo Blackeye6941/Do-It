@@ -4,8 +4,8 @@
 
 ## Features
 
--Add and Delete tasks
--Fully functional offline using a Service Worker
+-Add and Delete tasks<br>
+-Fully functional offline using a Service Worker<br>
 -Simple Clean UI with no backend dependencies
 
 ## License
