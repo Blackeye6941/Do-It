@@ -52,7 +52,7 @@ body{
     overflow-y: auto;
     max-height: 520px;
     transition: ease-in 0.02ms;
-    margin-left: 10px;
+    margin-right: 10px;
 }
 .task-item{
     user-select: none;
@@ -63,6 +63,7 @@ body{
     border-radius: 20px;
     color: #F5EEDD;
     font-size: 30px;
+    overflow-wrap: break-word;
 }
 @keyframes swipeleft {
     0% {
