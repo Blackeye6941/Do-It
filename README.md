@@ -4,7 +4,8 @@
 
 ## Features
 
--Add and Delete tasks<br>
+-Add tasks<br>
+-Swipe to Delete tasks<br>
 -Fully functional offline using a Service Worker<br>
 -Simple Clean UI with no backend dependencies
 
